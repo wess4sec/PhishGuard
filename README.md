@@ -130,7 +130,7 @@ PhishGuard/
 
 ### Clone repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/PhishGuard.git
+git clone https://github.com/wess4sec/PhishGuard.git
 cd PhishGuard
 ```
 
