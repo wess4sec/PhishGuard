@@ -1,4 +1,4 @@
-# 🛡️ PhishGuard — Phishing Detection Engine (SOC-Style)
+# 🛡️ PhishGuard — Phishing Detection Engine 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Security](https://img.shields.io/badge/Security-Phishing%20Detection-red.svg)
