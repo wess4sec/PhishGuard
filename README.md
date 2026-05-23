@@ -210,7 +210,7 @@ Input → Parsing → Detection Engines → Risk Scoring → JSON Output
 ## 👤 Author
 
 **Oussama Zehri (OZX / 0xOZX)**  
-Cybersecurity | SOC Analyst | Detection Engineering
+penetration tester | SOC Analyst | Detection Engineering
 
 ---
 
